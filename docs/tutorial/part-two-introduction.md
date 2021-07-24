@@ -63,7 +63,7 @@ The only thing we are doing is adding the (app,pinia) => {} callback.
 
 
 
-<!-- **auctions-factory.js**
+**auctions-factory.js**
 ```javascript
 export const auctionsFactoryDef = {
   state: {
